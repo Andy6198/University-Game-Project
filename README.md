@@ -21,7 +21,7 @@ The game is a top down survivals hooter where the player must survive for 60 sec
 - Unity
 
 ## Current Status
-Finished.
+Unfinished.
 
 ## What I learned
 - Implementing gameplay mechanics in C#
